@@ -1,0 +1,8 @@
+[project]
+name = "the-ember-gate"
+version = "1.0.0"
+requires-python = ">=3.10"
+dependencies = [
+    "colorama==0.4.6",
+    "tinydb==4.8.2",
+]
